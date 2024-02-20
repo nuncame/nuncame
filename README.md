@@ -11,7 +11,7 @@
 --
 <markova.vict@gmail.com>
 
-[![Telegram](https://img.shields.io/badge/-telegram?logo=telegram)](https://t.me/nuncame)
+[![Telegram](https://img.shields.io/badge/-telegram-blue?logo=telegram)](https://t.me/nuncame)
 
 *Стек*
 --
